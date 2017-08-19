@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 import br.ufes.inf.prog3.lista2.exercicio04.dominio.Contato;
 import br.ufes.inf.prog3.lista2.exercicio04.dominio.ContatoEmail;
-import br.ufes.inf.prog3.lista2.exercicio04.dominio.ContatoTelefone;
 import br.ufes.inf.prog3.lista2.exercicio04.dominio.ContatoTelefoneCelular;
 import br.ufes.inf.prog3.lista2.exercicio04.dominio.ContatoTelefoneComercial;
 import br.ufes.inf.prog3.lista2.exercicio04.dominio.ContatoTelefoneResidencial;
